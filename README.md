@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RajatChauhan672
+- 👋 Hi, I’m Rajat Chauhan
 - 👀 I’m interested in Full Stack Development and Machine Learning
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking for new oppertunities to showcase my skills and to learn more skills from industry as well.
